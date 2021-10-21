@@ -1,5 +1,5 @@
-# wsautils
-Windows Subsystem for Android Utils
+# wsa-sideload
+Windows Subsystem for Android APK Sideload Utils
 
 ## Features
 
