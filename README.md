@@ -13,3 +13,5 @@ Windows Subsystem for Android Utils
 3. Start Windows Subsystem for Android
 4. Run wsaconnect.ps1 in PowerShell to connect ot WSA
 5. Run wsasideload.ps1 and choose APK file to install
+
+Note: to install splitted APK, select the main file in the selection dialog
